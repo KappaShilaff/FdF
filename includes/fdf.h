@@ -33,7 +33,7 @@
 # define KEY_F 			3
 # define KEY_H 			4
 
-# include "../srcs/libft/includes/libft.h"
+# include "../libft/includes/libft.h"
 # include "mlx.h"
 # include <math.h>
 
